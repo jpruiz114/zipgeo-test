@@ -1,0 +1,46 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6e7204b7df855a22138c3044d4f362a0",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "thedmsgrp/zipgeo",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/TheDMSGroup/zipgeo",
+                "reference": "6fc028d0557f253c2b635111aa5eb16490a63142"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "TheDMSGrp\\ZipGeo\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jean Paul Ruiz",
+                    "email": "jruiz@thedmsgrp.com"
+                }
+            ],
+            "description": "This is a DMS group public repo to convert zip code into geographical locations",
+            "time": "2017-03-16 19:16:41"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "thedmsgrp/zipgeo": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
