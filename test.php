@@ -16,6 +16,9 @@ try {
 
     $result = GeoNamesOrgParser::getResultFromDB(['zipcode' => '33761']);
     print_r($result);
+
+    $result = GeoNamesOrgParser::getGeoInfoByZipcode(33761);
+    print_r($result);
 } catch (Exception $e) {
     echo $e->getMessage();
 }
