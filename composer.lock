@@ -13,7 +13,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/TheDMSGroup/zipgeo",
-                "reference": "6fc028d0557f253c2b635111aa5eb16490a63142"
+                "reference": "0bf9dd7a3f935869c23586ecea2ce199f36717e1"
             },
             "type": "library",
             "autoload": {
@@ -31,7 +31,7 @@
                 }
             ],
             "description": "This is a DMS group public repo to convert zip code into geographical locations",
-            "time": "2017-03-16 19:16:41"
+            "time": "2017-03-16T19:49:09+00:00"
         }
     ],
     "aliases": [],
