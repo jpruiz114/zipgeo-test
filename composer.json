@@ -1,11 +1,12 @@
 {
-    "name": "zipgeo-test",    "repositories": [
+    "name": "zipgeo-test",
+    "repositories": [
         {
             "type": "git",
             "url": "https://github.com/TheDMSGroup/zipgeo"
         }
     ],
-    "require-dev": {
+    "require": {
         "thedmsgrp/zipgeo": "dev-master"
     }
 }

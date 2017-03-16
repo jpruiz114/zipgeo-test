@@ -4,9 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "6e7204b7df855a22138c3044d4f362a0",
-    "packages": [],
-    "packages-dev": [
+    "content-hash": "d2f510c9b696d0d030928b4ddf451fa8",
+    "packages": [
         {
             "name": "thedmsgrp/zipgeo",
             "version": "dev-master",
@@ -34,9 +33,10 @@
                 }
             ],
             "description": "This is a DMS group public repo to convert zip code into geographical locations",
-            "time": "2017-03-16T20:23:02+00:00"
+            "time": "2017-03-16 20:23:02"
         }
     ],
+    "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
