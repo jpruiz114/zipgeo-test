@@ -31,7 +31,7 @@
                 }
             ],
             "description": "This is a DMS group public repo to convert zip code into geographical locations",
-            "time": "2017-03-16 19:16:41"
+            "time": "2017-03-16T19:16:41+00:00"
         }
     ],
     "aliases": [],
