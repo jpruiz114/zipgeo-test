@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/TheDMSGroup/zipgeo"
+        }
+    ],
+    "require": {
+        "TheDMSGroup/ZipGeo": "*"
+    }
+}
